@@ -1,0 +1,9 @@
+{
+    "name": "PapichTurret",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/qenze05/PapichTurretMod",
+    "description": "Changes turret firing and player detection sounds to Papich's quotes",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
