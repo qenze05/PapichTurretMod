@@ -1,2 +1,2 @@
 # PapichTurretMod
-Changes turret detectPlayerSFX and firingSFX
+Changes turret firing and player detection sounds to Papich's quotes
